@@ -1,0 +1,5 @@
+br\com\service\UserServiceImpl.class
+br\com\model\Usuario.class
+br\com\controller\UserManagementRestController.class
+br\com\service\UserService.class
+br\com\controller\IndexController.class
